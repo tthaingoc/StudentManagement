@@ -34,6 +34,7 @@ public class GradeManager {
             System.out.println("8. Display Student Grade Report ");
             System.out.println("9. Display Subject Grade Report ");
             System.out.println("10. Quit Program ");
+            System.out.println("**********Test in 22/02/2023*************");
             
         do{
             System.out.println("+-----------------------------------+");
